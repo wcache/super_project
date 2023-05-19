@@ -1,0 +1,4 @@
+[submodule "sub_project1"]
+	url = https://github.com/wcache/sub_project1.git
+	path = components/sub_project1
+	branch = refs/heads/main
