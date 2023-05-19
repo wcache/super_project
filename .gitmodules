@@ -2,3 +2,7 @@
 	url = https://github.com/wcache/sub_project1.git
 	path = components/sub_project1
 	branch = refs/heads/main
+[submodule "sub_project2"]
+	url = https://github.com/wcache/sub_project2.git
+	path = components/sub_project2
+	branch = refs/heads/main
